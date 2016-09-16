@@ -302,3 +302,11 @@ code, pre {
     font-family: 'Liberation Mono', Monaco, Consolas;
     font-size: 14px;
 }
+
+img.round {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
